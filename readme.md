@@ -1,1 +1,1 @@
-# Fine tuning the models.
+# Fine tuning the Open Source SLM models.
